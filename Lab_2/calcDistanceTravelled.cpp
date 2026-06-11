@@ -1,6 +1,6 @@
 /*
 @author: Charles Swain
-@date: 2024-06-07
+@date: 2026-06-07
 @purpose: This program calculates the distance travelled based on speed and time.
 */
 
