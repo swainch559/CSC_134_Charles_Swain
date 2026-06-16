@@ -9,7 +9,7 @@
 //use the standard namespace to avoid having to type std:: before every standard library function
 using namespace std;
 
-main(){
+int main(){
     //declare variables with given amounts
     float pi = 3.1415;
     int radius = 19;
